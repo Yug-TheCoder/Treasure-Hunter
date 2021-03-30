@@ -1,2 +1,2 @@
 # Treasure-Hunter
-The wealthy people are raining valuables go o  the road and collect them.
+The wealthy people are raining valuables go to  the road and collect them.
